@@ -14,7 +14,7 @@ Please consider:
 - Error handling
 - Edge cases
 - Performance optimization
-- Best practices for [language/framework]
+- Best practices for [language/framework/Java/Python]
 Please do not unnecessarily remove any comments or code.
 Generate the code with clear comments explaining the logic.
 
@@ -37,7 +37,7 @@ AI is great for catching issues you might miss and suggesting improvements.
 ## Prompt Ideas for Various Coding Tasks
 ##### For implementing a specific algorithm:
 ```
-Implement a [name of algorithm] in [programming language]. Please include:
+Implement a [name of algorithm] in Java/Python. Please include:
 1. The main function with clear parameter and return types
 2. Helper functions if necessary
 3. Time and space complexity analysis
@@ -48,7 +48,7 @@ Implement a [name of algorithm] in [programming language]. Please include:
 ## For creating a class or module:
 
 ```
-Create a [class/module] for [specific functionality] in [programming language].
+Create a [class/module] for [specific functionality] in Java/Python.
 Include:
 1. Constructor/initialization
 2. Main methods with clear docstrings
