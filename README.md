@@ -61,8 +61,10 @@ Include:
 Here's a piece of code that needs optimization:
 [paste code]
 Please suggest optimizations to improve its performance. For each suggestion, explain the expected improvement and any trade-offs.
-For writing unit tests:
+```
 
+## For writing unit tests:
+```
 Generate unit tests for the following function:
 [paste function]
 Include tests for:
